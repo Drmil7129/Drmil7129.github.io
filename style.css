@@ -20,7 +20,6 @@ li{
 li a{
     color: white; font-size: 18px; font-weight: bold; margin-right: 25px;
 }
-
 .projectGridBox {
-    border-color: black;
+    border-color: black; background-color: cadetblue; border: solid;
 }
