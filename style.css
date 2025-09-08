@@ -23,3 +23,6 @@ li a{
 .projectGridBox {
     border-color: black; background-color: cadetblue; border: solid;
 }
+.sidewaysDiv{
+    display: flex; flex-direction: row;
+}
