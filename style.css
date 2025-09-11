@@ -26,3 +26,7 @@ li a{
 .sidewaysDiv{
     display: flex; flex-direction: row;
 }
+
+.sidewaysDiv a {
+    font-size: 18px;
+}
